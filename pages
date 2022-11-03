@@ -1,24 +1,28 @@
 ATM Interface Pages:
 
-Main:
+Main (Najiha):
 1. Welcome Page
 2. Choose language option
 3. Enter PIN
 4. Incorrect PIN
 5. Choose transaction option
 
-Cash Withdrawal:
+Cash Withdrawal (Azrina):
 1. Enter amount
 2. Choose account
 
-Balance Inquiry:
+Balance Inquiry (Azrina):
 1. Choose account
 2. Display balance
 
-Cash Deposit:
+Cash Deposit (Azrina):
 1. Choose account to deposit into
 2. statement: 'please enter the cash you would like to deposit into the cash dispenser'
 
-Transfer Funds:
+Bill Payment (Huda):
 
-Exit:
+Transfer Funds (Fasya):
+
+Others (Huda):
+
+Exit (Fasya):
