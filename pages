@@ -8,10 +8,16 @@ Main:
 5. Choose transaction option
 
 Cash Withdrawal:
+1. Enter amount
+2. Choose account
 
 Balance Inquiry:
+1. Choose account
+2. Display balance
 
 Cash Deposit:
+1. Choose account to deposit into
+2. statement: 'please enter the cash you would like to deposit into the cash dispenser'
 
 Transfer Funds:
 
