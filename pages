@@ -8,25 +8,36 @@ Main (Najiha):
 5. Choose transaction option
 
 Cash Withdrawal (Azrina):
-1. Select an amount
-2. Enter a custom amount
-3. Choose from which account
-4. Take your cash
+1. Enter amount
+2. Choose account
 
 Balance Inquiry (Azrina):
-1. Choose from which account
+1. Choose account
 2. Display balance
 
 Cash Deposit (Azrina):
 1. Choose account to deposit into
-2. statement: 'please enter your money into the cash dispenser'
-3. cash processing/loading
-4. transfered
+2. statement: 'please enter the cash you would like to deposit into the cash dispenser'
 
 Bill Payment (Huda):
+1. Choose which account to deduct the amount from
+2. Choose which bill to pay
+3. Enter biller code
+4. Re-enter if biller code does not exist
+5. Enter amount to pay
+6. Amount confirmation
+7. Error if insufficient amount in bank
+8. Display succesful payment
 
 Transfer Funds (Fasya):
 
 Others (Huda):
+1. Select an option which is Change PIN
+2. Enter old PIN
+3. Re-enter if old PIN is wrong
+4. Enter new PIN
+5. New PIN confirmation
+6. Re-enter if PIN does not match
+7. Display if change PIN is successful
 
 Exit (Fasya):
