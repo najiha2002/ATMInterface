@@ -11,7 +11,6 @@ Cash Withdrawal (Azrina):
 1. Enter amount
 2. Choose from which account
 3. Take your cash
-4. Do you want to make another transaction?
 
 Balance Inquiry (Azrina):
 1. Choose from which account
@@ -22,7 +21,6 @@ Cash Deposit (Azrina):
 2. statement: 'please enter the cash you would like to deposit into the cash dispenser'
 3. cash processing/loading
 4. transfered
-5. Do you want to make another transaction?
 
 Bill Payment (Huda):
 
