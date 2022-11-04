@@ -9,15 +9,20 @@ Main (Najiha):
 
 Cash Withdrawal (Azrina):
 1. Enter amount
-2. Choose account
+2. Choose from which account
+3. Take your cash
+4. Do you want to make another transaction?
 
 Balance Inquiry (Azrina):
-1. Choose account
+1. Choose from which account
 2. Display balance
 
 Cash Deposit (Azrina):
 1. Choose account to deposit into
 2. statement: 'please enter the cash you would like to deposit into the cash dispenser'
+3. cash processing/loading
+4. transfered
+5. Do you want to make another transaction?
 
 Bill Payment (Huda):
 
