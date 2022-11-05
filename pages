@@ -36,6 +36,14 @@ Bill Payment (Huda):
 8. Display succesful payment
 
 Transfer Funds (Fasya):
+1. GST info
+2. Account selection
+3. Beneficiary bank code key in
+4. Beneficiary acc number key in
+5. amount key in
+6. Display beneficiary Account Details 
+7. Display transaction processed
+8. Display transaction accepted
 
 Others (Huda):
 1. Select an option which is Change PIN
@@ -47,3 +55,7 @@ Others (Huda):
 7. Display if change PIN is successful
 
 Exit (Fasya):
+1. Other transaction option
+2. Receipt option (Yes/no)
+3. Selection receipt option (Print/email/both)
+4. Thank you page
